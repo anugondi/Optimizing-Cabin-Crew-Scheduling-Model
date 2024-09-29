@@ -20,7 +20,7 @@ This project taught us the importance of feature selection and the details that 
 Next, we aim to enhance the model by incorporating more external data, such as real-time weather conditions, flight delays, and economic indicators, to refine our predictions further. Also, we hope to implement our predictor model to a wider variety of airlines. We only focused on airlines that offered affordable airfare, so we would like to create accurate results that could be applicable to a wider scope of airlines.
 
 # Technologies
-Python: pandas, numpy, sklearn, matplotlib, seaborn, XGBoost, Streamlit, Jupyter Notebook
+Python: Pandas, NumPy, Sklearn, Matplotlib, Seaborn, XGBoost, Streamlit, Jupyter Notebook
 
 # Inspiration
 To run the program locally, type in streamlit run script.py in the terminal.

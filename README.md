@@ -22,5 +22,5 @@ Next, we aim to enhance the model by incorporating more external data, such as r
 # Technologies
 Python: Pandas, NumPy, Sklearn, Matplotlib, Seaborn, XGBoost, Streamlit, Jupyter Notebook
 
-# Inspiration
+# To Run
 To run the program locally, type in streamlit run script.py in the terminal.
